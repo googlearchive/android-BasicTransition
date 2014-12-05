@@ -5,8 +5,14 @@
 ---
 status:       PUBLISHED
 technologies: [Android]
-categories:   [UI]
+categories:   [Transition, UI]
 languages:    [Java]
 solutions:    [Mobile]
 github:       android-BasicTransition
+level:        ADVANCED
+icon:         Application/src/main/big_icon.png
+apiRefs:
+    - android:android.transition.TransitionManager
+    - android:android.transition.Transition
+    - android:android.transition.Scene
 license: apache2
